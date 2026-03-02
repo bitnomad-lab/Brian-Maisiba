@@ -8,7 +8,7 @@ const skills = [
     title: 'Engineering',
     icon: Code2,
     color: 'cyber-blue',
-    items: ['Python', 'SQL', 'Java', 'C++'],
+    items: ['Python', 'SQL', 'Java', 'C++', 'Website Design & Development'],
   },
   {
     title: 'Design',
@@ -17,10 +17,10 @@ const skills = [
     items: ['Adobe Suite', 'UI/UX', 'Brand Identity', 'Visual Content'],
   },
   {
-    title: 'Systems',
+    title: 'Systems & Office',
     icon: Server,
     color: 'cyber-blue',
-    items: ['IT Support', 'Network Troubleshooting', 'System Efficiency', 'Technical Solutions'],
+    items: ['IT Support', 'Networking', 'MS Word', 'MS Excel', 'MS PowerPoint', 'System Efficiency'],
   },
 ]
 

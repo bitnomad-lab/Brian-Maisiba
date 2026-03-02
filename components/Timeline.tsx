@@ -6,10 +6,10 @@ import { GraduationCap, Briefcase } from 'lucide-react'
 const timeline = [
   {
     year: '2023 - Present',
-    title: 'Diploma in Computer Science',
+    title: 'Bachelor of Science in Computer Science',
     organization: 'Technical University of Mombasa',
     type: 'education',
-    description: 'Specializing in software development, database systems, and IT infrastructure.',
+    description: 'Pursuing degree in Computer Science specializing in software development, database systems, and IT infrastructure.',
   },
   {
     year: '2022 - Present',
