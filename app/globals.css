@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-cyber-bg text-white antialiased;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-white/5 backdrop-blur-xl border border-white/10;
+  }
+  
+  .glass-hover {
+    @apply transition-all duration-300 hover:bg-white/10 hover:border-cyber-blue/50;
+  }
+  
+  .glow-blue {
+    box-shadow: 0 0 20px rgba(0, 112, 243, 0.3);
+  }
+  
+  .glow-green {
+    box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);
+  }
+}
